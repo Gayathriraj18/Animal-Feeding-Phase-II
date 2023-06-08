@@ -81,7 +81,8 @@ public class DetectCollider : MonoBehaviour
 ```
 ## Output:
 
-![Uploading ar5.png…]()
+![ar5](https://github.com/Gayathriraj18/Animal-Feeding-Phase-II/assets/94154854/8305e216-46ba-4dd8-a24e-418bad9dbdec)
+
 
 
 
